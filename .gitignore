@@ -1,0 +1,4 @@
+test*
+*.ipynb
+.ipynb_checkpoints
+.idea
